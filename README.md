@@ -1,5 +1,5 @@
 # Calculator Project
-## Author Abhishek Maurya
+## Author: Abhishek Maurya
 ## Overview
 
 This project is a simple, responsive calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
